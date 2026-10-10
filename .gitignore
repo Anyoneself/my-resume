@@ -1,0 +1,12 @@
+.DS_Store
+tmp/
+assets/texmf/
+__pycache__/
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.xdv
